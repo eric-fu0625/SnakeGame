@@ -1,0 +1,6 @@
+# Player data
+# Format: username password highScore
+test 123456 650
+TEST 123456 1630
+fdy 497697 400
+FDY 497697 310
